@@ -34,6 +34,7 @@
 * http://www.artcompsci.org/
 * https://cosweb1.fau.edu/~jmirelesjames/hw3Notes.pdf
 * https://www.maths.ed.ac.uk/~ateckent/vacation_reports/Report_Faustino.pdf
+* https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta%E2%80%93Fehlberg_method
 
 ## Gif orbits (row-major)
 1. ?
