@@ -13,6 +13,7 @@
 #### 1993 Moore
 * https://web.archive.org/web/20181008213647/http://tuvalu.santafe.edu/~moore/braids-prl.pdf
 * Figure-8: x1=−x2=0.97000436−0.24308753i,x3 =0; ˙x3=−2 ˙x1=−2 ˙x2=−0.93240737−0.86473146i from https://arxiv.org/pdf/math/0011268.pdf
+* https://arxiv.org/pdf/1312.7002.pdf
 #### 2013
 * https://arxiv.org/pdf/1303.0181.pdf
    * Initial conditions for 15 orbits
