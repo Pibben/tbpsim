@@ -33,6 +33,7 @@
 * http://csabai.web.elte.hu/http/simulationLab/hutMakinoTutorial.pdf
 * http://www.artcompsci.org/
 * https://cosweb1.fau.edu/~jmirelesjames/hw3Notes.pdf
+* https://www.maths.ed.ac.uk/~ateckent/vacation_reports/Report_Faustino.pdf
 
 ## Gif orbits (row-major)
 1. ?
