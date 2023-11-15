@@ -1,0 +1,3 @@
+[submodule "cfw"]
+	path = cfw
+	url = git@github.com:Pibben/cfw.git
