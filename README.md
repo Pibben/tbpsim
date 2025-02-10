@@ -38,6 +38,9 @@
 * https://blbadger.github.io/3-body-problem.html
 * https://observablehq.com/@rreusser/periodic-planar-three-body-orbits
 
+### Hardware
+* https://medium.com/@erikvanzijst/custom-16x16-matrix-display-pcb-96c40290c8bc
+
 ## Gif orbits (row-major)
 1. Broucke R2
 2. Broucke A10
