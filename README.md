@@ -36,25 +36,26 @@
 * https://www.maths.ed.ac.uk/~ateckent/vacation_reports/Report_Faustino.pdf
 * https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta%E2%80%93Fehlberg_method
 * https://blbadger.github.io/3-body-problem.html
+* https://observablehq.com/@rreusser/periodic-planar-three-body-orbits
 
 ## Gif orbits (row-major)
-1. ?
-2. ?
+1. Broucke R2
+2. Broucke A10
 3. ?
-4. ?
-5. ?
-6. ?
-7. ?
+4. BrouckeA 15
+5. Broucke A2
+6. Sheen - Two−ovals
+7. Broucke R1
 8. ?
-9. ? (In Moore 1993)
+9. Broucke A7
 10. Figure-8
 11. Euler ?
-12. ?
+12. Broucke A1
 13. Lagrange
 14. ?
 15. ?
-16. ?
+16. (Broucke ?)
 17. ?
-18. ?
-19. ?
-20. ?
+18. Sheen - Loop−ended−triangles
+19. Sheen - Ovals−with−flourishes
+20. Broucke R5
