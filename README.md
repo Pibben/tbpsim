@@ -41,6 +41,12 @@
 ### Hardware
 * https://medium.com/@erikvanzijst/custom-16x16-matrix-display-pcb-96c40290c8bc
 
+### Misc
+* arxiv.org/pdf/1312.7002 - Numerical Search for Periodic Solutions in the Vicinity of the Figure-Eight Orbit: Slaloming around Singularities on the Shape Sphere
+* https://www.maths.ed.ac.uk/~ateckent/vacation_reports/Report_Faustino.pdf Stable Closed Orbits – Figure-8
+* https://numericaltank.sjtu.edu.cn/three-body/three-body.htm
+* http://suki.ipb.ac.rs/praksa/AJP_Suvakov_Dmitrasinovic.pdf A guide to hunting periodic three-body orbits
+
 ## Gif orbits (row-major)
 1. Broucke R2
 2. Broucke A10
